@@ -162,7 +162,7 @@ section {
     background-color: #fff;
     border: 1px solid #fff;
     min-height: 14em;
-    width: 23em;
+    width: 50em; 
     overflow: hidden;
     border-radius: 10px;
     margin: 20px;
@@ -180,6 +180,8 @@ section {
 .project-image img{
     width: 100%
 }
+
+
 
 .project-info {
     padding: 1em;
